@@ -122,7 +122,7 @@ async def help_handler(bot, message):
             return
     await message.reply_text(
         text="""<b> Send me any file or video i will give you streamable link and download link.</b>\n
-<b> I also support Channels, add me to you Channel and send any media files and see miracle✨ also send /list to know all commands""",
+<b> 🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @ArkBotz """,
         
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
